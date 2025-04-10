@@ -13,7 +13,6 @@ Bu proje, İstanbul'daki ilçeleri temsil eden bir graf üzerinde en kısa rotay
 
 ```bash
 pip install -r requirements.txt 
-python main.py
 ``` 
 
 2. `.env` dosyası oluştur:
