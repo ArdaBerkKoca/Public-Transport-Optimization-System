@@ -13,20 +13,23 @@ Bu proje, İstanbul'daki ilçeleri temsil eden bir graf üzerinde en kısa rotay
 
 ```bash
 pip install -r requirements.txt 
-python main.py
 ``` 
 
 2. `.env` dosyası oluştur:
 ```markdown
 ```env
 GOOGLE_MAPS_API_KEY=buraya_anahtarını_yaz
+```
 
 3. Projeyi çalıştır:
+```markdown
 pip install -r requirements.txt
 python main.py
+```
 
-
+```markdown
 ## Not
 - `.env` dosyası **yüklü değildir**, gizli bilgi içerir.
 - Haritalar `outputs/route_map.html` içinde kaydedilir.
+```
 
