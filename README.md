@@ -17,7 +17,6 @@ pip install -r requirements.txt
 
 2. `.env` dosyası oluştur:
 ```markdown
-```env
 GOOGLE_MAPS_API_KEY=buraya_anahtarını_yaz
 ```
 
