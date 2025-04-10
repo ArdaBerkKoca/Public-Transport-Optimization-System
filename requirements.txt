@@ -1,0 +1,6 @@
+networkx
+matplotlib
+requests
+folium
+geopy
+python-dotenv
