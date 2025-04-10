@@ -24,13 +24,11 @@ GOOGLE_MAPS_API_KEY=buraya_anahtarını_yaz
 
 3. Projeyi çalıştır:
 ```markdown
-```env
 pip install -r requirements.txt
 python main.py
 ```
 
 ```markdown
-```env
 ## Not
 - `.env` dosyası **yüklü değildir**, gizli bilgi içerir.
 - Haritalar `outputs/route_map.html` içinde kaydedilir.
