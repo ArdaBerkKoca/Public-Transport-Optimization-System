@@ -22,7 +22,6 @@ GOOGLE_MAPS_API_KEY=buraya_anahtarını_yaz
 
 3. Projeyi çalıştır:
 ```markdown
-pip install -r requirements.txt
 python main.py
 ```
 
